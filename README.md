@@ -1,5 +1,4 @@
-# Rachelhamaker1.github.io
-## BDA 594 Lab 1
+# BDA 594 Lab 1
 ### Interesting dataset: Socioeconomic Data and Applications Center https://www.earthdata.nasa.gov/centers/sedac-daac 
 #### This series of datasets, owned by NASA, includes lots of data pertaining to human activity and its relationship with the environment. There are many datasets included, and some topics covered include agriculture and food, biodiversity and conservation, health and the environment, environmental hazards, land use, poverty and economic indicators, and water use trends. This data has many useful applications. For example, datasets pertaining to land use could be helpful in urban planning and efficient resource distribution. Datasets relating to environmental risks could be useful in predicting what areas need more disaster preparedness. Datasets relating to food production may be necessary for the shipping industry to determine where food is coming from and where it needs to go. 
 
